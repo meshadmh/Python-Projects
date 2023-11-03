@@ -1,2 +1,2 @@
 # Python Projects
- Things I have made using Python
+Projects I have made using Python
